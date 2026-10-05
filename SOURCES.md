@@ -3,7 +3,7 @@
 - Official repository: https://github.com/erjui/DHO
 - Paper version used: https://arxiv.org/html/2505.07675v2
 - Full PDF read: https://arxiv.org/pdf/2505.07675v2
-- Revision date: 2026-10-04
+- Revision date: 2026-10-05
 - Release status: Code available in the official repository.
 
 The page summarizes the main paper and relevant supplemental analyses. Tables and
